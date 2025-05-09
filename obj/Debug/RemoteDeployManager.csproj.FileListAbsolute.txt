@@ -1,0 +1,11 @@
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\obj\Debug\RemoteDeployManager.csproj.AssemblyReference.cache
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\obj\Debug\RemoteDeployManager.Form1.resources
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\obj\Debug\RemoteDeployManager.Form2.resources
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\obj\Debug\RemoteDeployManager.Properties.Resources.resources
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\obj\Debug\RemoteDeployManager.csproj.GenerateResource.cache
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\obj\Debug\RemoteDeployManager.csproj.CoreCompileInputs.cache
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\bin\Debug\RemoteDeployManager.exe.config
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\bin\Debug\RemoteDeployManager.exe
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\bin\Debug\RemoteDeployManager.pdb
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\obj\Debug\RemoteDeployManager.exe
+D:\Projects\Remote Deploy Manager\RemoteDeployManager\obj\Debug\RemoteDeployManager.pdb

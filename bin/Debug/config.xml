@@ -1,0 +1,25 @@
+<Root>
+  <Target_folder>
+    <TargetPath>C:\New folder\source\New folder</TargetPath>
+    <TargetFiles>
+     txt11.txt,
+	 txt1 - Copy.txt
+    </TargetFiles>
+  </Target_folder>
+
+  <Destination_folder>
+    <DestinationPath>C:\New folder\source\New folder\New Folder</DestinationPath>
+    <DestinationFiles>
+      txt1.txt
+      
+    </DestinationFiles>
+  </Destination_folder>
+
+  <Destination_folder>
+    <DestinationPath>\\192.168.8.149\fold</DestinationPath>
+    <DestinationFiles>
+       txt1.txt,
+	txt1 - Copy.txt
+    </DestinationFiles>
+  </Destination_folder>
+</Root>
